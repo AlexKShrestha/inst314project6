@@ -1,4 +1,4 @@
-This dataset is composed of responses from 10 people from an anonymous survey for my statistics class about 3 different types of feminism: difference-denying, difference-removing, and difference-honoring. They have to read the definition of each of them and then approximate their degree of agreement with each approach. It's made up of 13 columns those being:
+This dataset is composed of responses from 10 people from an anonymous survey for my statistics class about 3 different types of feminism: difference-denying, difference-removing, and difference-honoring. They have to read the definition of each of them and then approximate their degree of agreement with each approach. It's made up of 8 columns those being:
 
 1) answer to Q1
 2) answer to Q2
